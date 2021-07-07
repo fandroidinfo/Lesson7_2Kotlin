@@ -1,9 +1,10 @@
-package info.fandroid.lesson7_2kotlin
+package info.fandroid.lesson7_2kotlin.recyclerView
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import info.fandroid.lesson7_2kotlin.R
 import kotlinx.android.synthetic.main.user_item.view.*
 import java.util.ArrayList
 

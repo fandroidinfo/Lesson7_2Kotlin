@@ -7,6 +7,8 @@ import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import android.view.Menu
 import android.view.MenuItem
+import info.fandroid.lesson7_2kotlin.recyclerView.UserAdapter
+import info.fandroid.lesson7_2kotlin.recyclerView.UserViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

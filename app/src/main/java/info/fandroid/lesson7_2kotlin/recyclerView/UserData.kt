@@ -1,4 +1,4 @@
-package info.fandroid.lesson7_2kotlin
+package info.fandroid.lesson7_2kotlin.recyclerView
 
 object UserData {
 
